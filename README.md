@@ -112,6 +112,8 @@ Important variables identified by the model included:
 The tree structure also provides an interpretable way to understand how different health indicators contribute to the predicted risk category.
 
 ## Model Performance
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/03f63f51-5710-4f32-9bec-0079f0284aaf" />
+
 
 | Model | Accuracy | High-Risk Recall | Precision | Specificity | F1 Score |
 |---|---:|---:|---:|---:|---:|
