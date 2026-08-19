@@ -6,7 +6,6 @@ The project explores how routine maternal health information can be used to supp
 
 ## Project Overview
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2b598dba-6d71-410f-b330-7143e35dfbdb" />
-
 Maternal mortality remains a major global health challenge, particularly in low- and lower-middle-income countries. Our project investigates whether routinely collected maternal health indicators can support faster and more consistent risk prioritization.
 
 The goal was not to create a diagnostic system, but rather an **AI-assisted clinical decision-support prototype** that could complement professional medical judgment.
