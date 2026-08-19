@@ -56,6 +56,7 @@ The preprocessing workflow included:
 A **70/30 stratified train-test split** was used to preserve the distribution of high- and low-risk patients.
 
 ## Exploratory Data Analysis
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f590e781-3708-4200-8dd8-0a8942699b5e" />
 
 Several patterns were observed in the dataset.
 
@@ -67,6 +68,7 @@ High-risk patients tended to show higher values of:
 - BMI
 
 Some medical-history variables also showed strong relationships with maternal risk classification.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/84119efc-0a62-4fba-a8e0-d211764ebc9e" />
 
 The analysis additionally included:
 
@@ -98,6 +100,7 @@ Reducing the threshold increased sensitivity toward high-risk patients, illustra
 This is particularly important in healthcare screening, where missing a high-risk patient can have greater consequences than generating an additional false alarm.
 
 ### CART Decision Tree
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4966febd-335f-44eb-ac58-efc472e58e46" />
 
 A Classification and Regression Tree (CART) model was developed and pruned using cross-validation.
 
