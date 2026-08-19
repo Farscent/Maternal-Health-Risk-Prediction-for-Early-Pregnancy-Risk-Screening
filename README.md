@@ -5,6 +5,7 @@ A machine learning project developed during **BC2406: Business Analytics** at **
 The project explores how routine maternal health information can be used to support **early pregnancy risk screening**, particularly in resource-limited healthcare settings. We developed interpretable machine learning models to classify patients into **low-risk** and **high-risk** groups and help healthcare workers prioritize patients who may require faster review.
 
 ## Project Overview
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2b598dba-6d71-410f-b330-7143e35dfbdb" />
 
 Maternal mortality remains a major global health challenge, particularly in low- and lower-middle-income countries. Our project investigates whether routinely collected maternal health indicators can support faster and more consistent risk prioritization.
 
